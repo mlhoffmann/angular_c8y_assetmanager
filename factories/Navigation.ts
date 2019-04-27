@@ -45,6 +45,6 @@ export class ExampleNavigationFactory implements NavigatorNodeFactory {
       path: '/assetmap',
       priority: 96
     }));
-    return nav; 
+    return nav;
   }
 }
