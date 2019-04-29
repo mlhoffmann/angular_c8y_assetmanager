@@ -41,7 +41,8 @@
     "application": {
       "name": "assetmanager",
       "contextPath": "assetmanager",
-      "key": "assetmanager-application-key"
+      "key": "assetmanager-application-key",
+      "brandingEntry": "./branding/branding.less"
     }
   }
 }
